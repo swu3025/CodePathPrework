@@ -1,26 +1,23 @@
-## CodePathPrework
+## Hello World App
 
 ### App Description
-`TODO://` Add app description
+This app is an introduction to creating an IOS app. Inside this app, the user is greeted with a message from the creator and contains four functions. First, the user can change the text label on the app by inputing a custom text in the text field provided and then clicking on the "Change Text" button. The button "Change Text Color" has the functionality of changing the color of the label text with a color selected by the creator. Clicking on the "Change View Color" will change the background of the app to a color selected by the creator. Finally, the user is able to revert everything back to the default settings by tapping anywhere on the background view.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="http://g.recordit.co/dMJMXpZhwe.gif" width=200><br>
 
 ### Required User Stories
-- [ ] 1. User sees custom text in a label - Hello from {name}!
-- [ ] 2. User see's custom background color.
-- [ ] 3. User can tap a button to change the text color of the label.
+- [X] 1. User sees custom text in a label - Hello from {name}!
+- [X] 2. User see's custom background color.
+- [X] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
-- [ ] 1. User can tap a button to change the color of the background view.
-- [ ] 2. User can tap a button to change the text string of the label - Goodbye 👋.
-- [ ] 3. User can tap on the background view to reset all views to default settings.
-- [ ] 4. User can update the label text with custom text entered into the text field.
-   - [ ] a. User can enter text into a text field using the keyboard.
-   - [ ] b. User can tap the "Change text string" button to update the label with the text from the text field.
-   - [ ] c. If the text field is empty, update label with default text string.
-   - [ ] d. The keyboard is dismissed after the button has been tapped.
+- [X] 1. User can tap a button to change the color of the background view.
+- [X] 2. User can tap a button to change the text string of the label - Goodbye 👋.
+- [X] 3. User can tap on the background view to reset all views to default settings.
+- [X] 4. User can update the label text with custom text entered into the text field.
+   - [X] a. User can enter text into a text field using the keyboard.
+   - [X] b. User can tap the "Change text string" button to update the label with the text from the text field.
+   - [X] c. If the text field is empty, update label with default text string.
+   - [X] d. The keyboard is dismissed after the button has been tapped.
