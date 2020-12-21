@@ -1,11 +1,11 @@
 ## Hello World App
 
 ### App Description
-This app is an introduction to creating an IOS app. Inside this app, the user is greeted with a message from the creator and contains four functions. First, the user can change the text label on the app by inputing a custom text in the text field provided and then clicking on the "Change Text" button. The button "Change Text Color" has the functionality of changing the color of the label text with a color selected by the creator. Clicking on the "Change View Color" will change the background of the app to a color selected by the creator. Finally, the user is able to revert everything back to the default settings by tapping anywhere on the background view.
+This app is an introduction to creating an IOS app. Inside this app, the user is greeted with a message from the creator and contains four functions. First, the user can change the text label on the app by inputing a custom text in the text field provided and then clicking on the "Change Text" button. If the user does not input any text and clicks on the "Change Text" button, then the text in the label will display "Goodbye 👋". The button "Change Text Color" has the functionality of changing the color of the label text with a color selected by the creator. Clicking on the "Change View Color" will change the background of the app to a color selected by the creator. Finally, the user is able to revert everything back to the default settings by tapping anywhere on the background view.
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/dMJMXpZhwe.gif" width=200><br>
+<img src="http://g.recordit.co/rCWYJs0l5A.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
